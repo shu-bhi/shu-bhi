@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shu-bhi" alt="shu-bhi" /></a> </p>
 
-- 📝 I regularly write articles on [https://shubhiagrawal.netlify.app/](https://shubhiagrawal.netlify.app/)
+- 📝 Catch me through my personal wenbsite [https://shubhiagrawal.netlify.app/](https://shubhiagrawal.netlify.app/)
 
 - 💬 Ask me about **Flutter**
 
